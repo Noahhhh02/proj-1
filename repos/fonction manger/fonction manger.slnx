@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="fonction manger/fonction manger.vcxproj" Id="cafd8185-a8f4-462a-9ef0-56d62976b2a2" />
+</Solution>

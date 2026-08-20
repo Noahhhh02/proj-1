@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rinox\\source\\repos\\looping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC67A1B-01BB-4B38-BBDA-9EEA07629630}|looping\\looping.vcxproj|C:\\Users\\rinox\\source\\repos\\looping\\looping\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFC67A1B-01BB-4B38-BBDA-9EEA07629630}|looping\\looping.vcxproj|solutionrelative:looping\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\rinox\\source\\repos\\looping\\looping\\main.cpp",
+              "RelativeDocumentMoniker": "looping\\main.cpp",
+              "ToolTip": "C:\\Users\\rinox\\source\\repos\\looping\\looping\\main.cpp",
+              "RelativeToolTip": "looping\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-15T12:56:21.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
